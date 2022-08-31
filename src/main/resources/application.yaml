@@ -1,0 +1,7 @@
+server:
+  port: 9999
+
+
+spring:
+  codec:
+    max-in-memory-size: 20MB
